@@ -1,6 +1,6 @@
 # Personality-Test-Clustering-for-Identifying-Similar-Traits
 
-## Problem Statement: Personality Test Clustering for Identifying Similar Traits
+### Problem Statement: Personality Test Clustering for Identifying Similar Traits
 
 In this project, a surprise personality test was conducted among a group of students, where they were asked to rate themselves on a scale of 1 to 5 across various personal and behavioral traits. The aim of the project is to analyze the results of the personality test, group students with similar personality traits, and identify patterns or similarities among individuals based on their self-assessments.
 
